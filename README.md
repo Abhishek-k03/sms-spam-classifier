@@ -1,3 +1,3 @@
 ﻿# sms-spam-classifier
-## sms.csv is raw dataset
-## spam_sms.csv is processed dataset
+spam.csv is raw dataset
+spam_sms.csv is processed dataset
